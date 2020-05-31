@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-05-16T10:01:33Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "NRFC52840 V 0.26"
+        },
+        "Owner": "Akshay Sharma <akshayduttsharma@gmail.com>",
+        "Size": {
+            "X": 28,
+            "Y": 77.5
+        }
+    }
+}
